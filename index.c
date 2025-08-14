@@ -2,8 +2,9 @@
 
 int main()
 {
-   int age;
-   age = 25;
-   printf("%d",25);
-   return 0;
+ float a , b;
+ a=2.5;
+ b=3.7;
+ printf("%f",a+b);
+ return 0;
 }
